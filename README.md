@@ -1,4 +1,6 @@
 
+[![Build Status](https://koovisa.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/chad-smith.mslearn-tailspin-spacegame-web?branchName=master)](https://koovisa.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
